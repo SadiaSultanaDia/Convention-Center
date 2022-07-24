@@ -1,3 +1,9 @@
 .my-nav-links:hover{
 text-decoration: underline;
 }
+.fa-check{
+    color: rgb(21, 142, 182);
+}
+.fa-far{
+    color: white;
+}
